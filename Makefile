@@ -15,7 +15,7 @@ install:
 
 clean:
 	$(RM) -r $(SOURCE_DIR) *.patch
-	$(RM) *.tar.gz *.dsc *.mk *.deb *.build *.changes
+	$(RM) *.tar.* *.dsc *.mk *.deb *.build *.changes *.buildinfo
 
 build-dep:
 	apt-get build-dep unzip
