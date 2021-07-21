@@ -19,9 +19,9 @@ Usage
 -----
 
     $ make source
-    # make build-dep
+    $ sudo make build-dep
     $ make
-    # make install
+    $ sudo make install
 
 
 License
