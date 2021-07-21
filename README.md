@@ -8,6 +8,13 @@ This script downloads unzip-6.0-iconv.patch from
 https://bugs.archlinux.org/task/18691#comment63168
 
 
+Requirements
+------------
+
+* Debian "testing" distribution
+* wget
+
+
 Usage
 -----
 
